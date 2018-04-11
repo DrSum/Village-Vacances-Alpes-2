@@ -1,0 +1,12 @@
+c:\users\elliott\documents\visual studio 2017\Projects\AppliRencontre\AppliRencontre\bin\Debug\AppliRencontre.exe.config
+c:\users\elliott\documents\visual studio 2017\Projects\AppliRencontre\AppliRencontre\bin\Debug\AppliRencontre.exe
+c:\users\elliott\documents\visual studio 2017\Projects\AppliRencontre\AppliRencontre\bin\Debug\AppliRencontre.pdb
+c:\users\elliott\documents\visual studio 2017\Projects\AppliRencontre\AppliRencontre\obj\Debug\AppliRencontre.csprojResolveAssemblyReference.cache
+c:\users\elliott\documents\visual studio 2017\Projects\AppliRencontre\AppliRencontre\obj\Debug\AppliRencontre.Properties.Resources.resources
+c:\users\elliott\documents\visual studio 2017\Projects\AppliRencontre\AppliRencontre\obj\Debug\AppliRencontre.csproj.GenerateResource.Cache
+c:\users\elliott\documents\visual studio 2017\Projects\AppliRencontre\AppliRencontre\obj\Debug\AppliRencontre.exe
+c:\users\elliott\documents\visual studio 2017\Projects\AppliRencontre\AppliRencontre\obj\Debug\AppliRencontre.pdb
+C:\Users\Elliott\documents\visual studio 2017\Projects\AppliRencontre\AppliRencontre\bin\Debug\MySql.Data.dll
+C:\Users\Elliott\documents\visual studio 2017\Projects\AppliRencontre\AppliRencontre\bin\Debug\MySql.Data.xml
+C:\Users\Elliott\documents\visual studio 2017\Projects\AppliRencontre\AppliRencontre\obj\Debug\AppliRencontre.Form_Menu.resources
+C:\Users\Elliott\documents\visual studio 2017\Projects\AppliRencontre\AppliRencontre\obj\Debug\AppliRencontre.ConnectionLayout.resources

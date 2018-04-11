@@ -1,0 +1,15 @@
+C:\Users\Elliott\documents\visual studio 2017\Projects\AppliRencontre\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Elliott\documents\visual studio 2017\Projects\AppliRencontre\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Elliott\documents\visual studio 2017\Projects\AppliRencontre\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Elliott\documents\visual studio 2017\Projects\AppliRencontre\ConsoleApp1\bin\Debug\MySql.Data.dll
+C:\Users\Elliott\documents\visual studio 2017\Projects\AppliRencontre\ConsoleApp1\bin\Debug\MySql.Data.xml
+C:\Users\Elliott\documents\visual studio 2017\Projects\AppliRencontre\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Elliott\documents\visual studio 2017\Projects\AppliRencontre\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Elliott\documents\visual studio 2017\Projects\AppliRencontre\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\Elliott\documents\visual studio 2017\Projects\AppliRencontre\ConsoleApp1\bin\Debug\AppliRencontre.exe
+C:\Users\Elliott\documents\visual studio 2017\Projects\AppliRencontre\ConsoleApp1\bin\Debug\Bogus.dll
+C:\Users\Elliott\documents\visual studio 2017\Projects\AppliRencontre\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Elliott\documents\visual studio 2017\Projects\AppliRencontre\ConsoleApp1\bin\Debug\AppliRencontre.pdb
+C:\Users\Elliott\documents\visual studio 2017\Projects\AppliRencontre\ConsoleApp1\bin\Debug\AppliRencontre.exe.config
+C:\Users\Elliott\documents\visual studio 2017\Projects\AppliRencontre\ConsoleApp1\bin\Debug\Bogus.xml
+C:\Users\Elliott\documents\visual studio 2017\Projects\AppliRencontre\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
